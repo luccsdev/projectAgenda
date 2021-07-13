@@ -1,0 +1,3 @@
+[submodule "agendaFrontEnd"]
+	path = agendaFrontEnd
+	url = https://github.com/luccsdev/projectAgenda
